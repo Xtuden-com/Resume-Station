@@ -19,7 +19,7 @@ cssselect==1.0.3
 decorator==4.4.0
 defusedxml==0.6.0
 dj-database-url==0.5.0
-Django==2.2.13
+Django==2.2.26
 django-allauth==0.39.1
 django-appconf==1.0.3
 django-avatar==4.1.0
@@ -63,7 +63,7 @@ more-itertools==7.1.0
 nbconvert==5.5.0
 nbformat==4.4.0
 newspaper3k==0.2.8
-nltk==3.4.5
+nltk==3.6.6
 notebook==5.7.8
 numpy==1.17.2
 oauthlib==3.0.2
@@ -74,7 +74,7 @@ parse==1.12.1
 parso==0.5.0
 pickle-mixin==1.0.2
 pickleshare==0.7.5
-Pillow==7.1.0
+Pillow==9.0.0
 play-scraper==0.5.5
 pluggy==0.12.0
 prometheus-client==0.7.1
