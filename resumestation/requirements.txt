@@ -14,12 +14,12 @@ chardet==3.0.4
 chef-cli==1.0.1
 colorama==0.4.1
 coloredlogs==10.0
-cryptography==3.2
+cryptography==3.3.2
 cssselect==1.0.3
 decorator==4.4.0
 defusedxml==0.6.0
 dj-database-url==0.5.0
-Django==2.2.13
+Django==3.2.15
 django-allauth==0.39.1
 django-appconf==1.0.3
 django-avatar==4.1.0
@@ -53,7 +53,7 @@ jupyter-client==5.2.4
 jupyter-console==6.0.0
 jupyter-core==4.5.0
 lazy-object-proxy==1.4.1
-lxml==4.3.4
+lxml==4.9.1
 Markdown==3.1.1
 MarkupSafe==1.1.1
 mccabe==0.6.1
@@ -74,7 +74,7 @@ parse==1.12.1
 parso==0.5.0
 pickle-mixin==1.0.2
 pickleshare==0.7.5
-Pillow==7.1.0
+Pillow==9.0.1
 play-scraper==0.5.5
 pluggy==0.12.0
 prometheus-client==0.7.1
@@ -123,7 +123,7 @@ social-auth-app-django==3.1.0
 social-auth-core==3.2.0
 soupsieve==1.9.2
 spotipy==2.4.4
-sqlparse==0.3.0
+sqlparse==0.4.2
 stripe==2.32.1
 tabulate==0.8.5
 tenacity==5.0.4
@@ -141,7 +141,7 @@ twilio==6.29.1
 typed-ast==1.4.0
 ua-parser==0.8.0
 udemy==0.0.4
-urllib3==1.25.3
+urllib3==1.26.5
 verboselogs==1.7
 virtualenv==16.6.1
 w3lib==1.21.0
