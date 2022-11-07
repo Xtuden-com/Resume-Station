@@ -65,7 +65,7 @@ nbformat==4.4.0
 newspaper3k==0.2.8
 nltk==3.4.5
 notebook==5.7.8
-numpy==1.17.2
+numpy==1.22.2
 oauthlib==3.0.2
 packaging==19.0
 pafy==0.5.4
@@ -83,7 +83,7 @@ psycopg2==2.8.3
 py==1.8.0
 pycparser==2.19
 pyee==6.0.0
-Pygments==2.4.2
+Pygments==2.7.4
 PyJWT==1.7.1
 pylint==2.3.1
 pylint-django==2.0.11
@@ -141,7 +141,7 @@ twilio==6.29.1
 typed-ast==1.4.0
 ua-parser==0.8.0
 udemy==0.0.4
-urllib3==1.25.3
+urllib3==1.26.5
 verboselogs==1.7
 virtualenv==16.6.1
 w3lib==1.21.0
