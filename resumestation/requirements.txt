@@ -74,7 +74,7 @@ parse==1.12.1
 parso==0.5.0
 pickle-mixin==1.0.2
 pickleshare==0.7.5
-Pillow==7.1.0
+Pillow==9.2.0
 play-scraper==0.5.5
 pluggy==0.12.0
 prometheus-client==0.7.1
@@ -90,7 +90,7 @@ pylint-django==2.0.11
 pylint-plugin-utils==0.5
 pyOpenSSL==19.0.0
 pyparsing==2.4.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pyppeteer==0.0.25
 pyquery==1.4.0
 pyreadline==2.1
@@ -141,7 +141,7 @@ twilio==6.29.1
 typed-ast==1.4.0
 ua-parser==0.8.0
 udemy==0.0.4
-urllib3==1.25.3
+urllib3==1.26.5
 verboselogs==1.7
 virtualenv==16.6.1
 w3lib==1.21.0
@@ -155,3 +155,4 @@ wrapt==1.11.2
 xhtml2pdf==0.2.3
 xvfbwrapper==0.2.9
 zipp==0.5.1
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
