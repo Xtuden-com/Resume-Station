@@ -155,3 +155,4 @@ wrapt==1.11.2
 xhtml2pdf==0.2.3
 xvfbwrapper==0.2.9
 zipp==0.5.1
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
