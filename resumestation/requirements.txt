@@ -123,7 +123,7 @@ social-auth-app-django==3.1.0
 social-auth-core==3.2.0
 soupsieve==1.9.2
 spotipy==2.4.4
-sqlparse==0.3.0
+sqlparse==0.4.4
 stripe==2.32.1
 tabulate==0.8.5
 tenacity==5.0.4
