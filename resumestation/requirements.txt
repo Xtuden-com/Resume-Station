@@ -106,7 +106,7 @@ pywinpty==0.5.5
 PyYAML==5.1.1
 pyzmq==18.0.2
 qtconsole==4.5.1
-reportlab==3.5.32
+reportlab==3.6.13
 requests==2.22.0
 requests-file==1.4.3
 requests-futures==1.0.0
