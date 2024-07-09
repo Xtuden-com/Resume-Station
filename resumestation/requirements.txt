@@ -154,4 +154,4 @@ widgetsnbextension==3.4.2
 wrapt==1.11.2
 xhtml2pdf==0.2.3
 xvfbwrapper==0.2.9
-zipp==0.5.1
+zipp==3.19.1
